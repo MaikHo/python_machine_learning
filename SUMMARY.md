@@ -7,6 +7,6 @@
   * [Regression](regression.md)
   * [Unüberwachtes Lernen](unsupervised.md)
   * [Weitere Machine Learning-Verfahren](other.md)
-* [Challenges](challenges/README.md)
+* [Challenges](challenges.md)
 * [Python-Bibliotheken](python.md)
 * [Links](links.md)

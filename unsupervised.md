@@ -10,6 +10,8 @@ Das k-means Clustering ist eine robuste Method, deren Hauptnachteil darin besteh
 
 ## Hauptkomponentenzerlegung
 
+![Entenzerlegung](images/entenzerlegung.jpg)
+
 Die **Hauptkomponentenzerlegung (PCA)** transformiert die Daten so, dass deren wichtigste Eigenschaft durch eine Koordinate ausgedrückt wird, die zweitwichtigste Eigenschaft durch eine weitere Koordinate usw. Diese Eigenschaften nennt man **Hauptkomponenten**.
 
 **Beispiel:** Bei Schiffen lassen sich viele Eigenschaften wie Länge, Breite, Tiefgang Bruttoregistertonnen usw. durch eine Eigenschaft, die Größe ausdrücken. Die nächstwichtige Eigenschaft könnte sein, ob das Schiff eher bauchig oder länglich ist.

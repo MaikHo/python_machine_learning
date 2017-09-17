@@ -30,6 +30,16 @@ Das Feld entwickelt sich seit einigen Jahren rasant. Schneller als ich irgend et
 ![Überblick Machine Learning-Verfahren](images/ML_overview.png)
 
 
+* Supervised models: Linear regression, Support Vector Machines, Bayes classifiers, Neural networks.
+* Other types of Machine Learning: Unsupervised learning, reinforcement learning, recurrent networks, autoencoders etc.
+* Model optimization: Feature engineering, parameter optimization, metrics to evaluate model quality, dimensionality reduction, automatic model selection
+* Methods for particular fields: image and video processing, speech recognition, NLP, time series analysis and forecasting
+* Programming: How to write code in Python? How to handle datasets.
+* Software engineering: How to test a program, deploy it and maintain it over long time?
+* Distributed computing: How to process huge datasets and split computations on multiple machines or GPUs
+* Communication: How to explain results in a clear and convincing way.
+
+
 ## Wie kann ich diese Kursmaterialien verwenden?
 
 Mit diesen Kursmaterialien kannst Du:
