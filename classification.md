@@ -5,7 +5,7 @@ Bei der **Klassifikation** werden Datenpunkte einer fest vorgegeben Auswahl von 
 
 Es gibt eine Unmenge an Klassifikationsverfahren, die alle ihre Vor- und Nachteile haben:
 
-![comparison graph](classifier_comparison.png)
+![comparison graph](images/classifier_comparison.png)
 
 *Bildquelle: [http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)*
 
@@ -15,7 +15,7 @@ Hier sind die wichtigsten kurz vorgestellt.
  
 Bei der **logistischen Regression** verwenden wir die logistische Funktion ($y = 1 / (1 + e^x)$), um Grenzen zwischen Klassen zu ziehen. 
 
-![logistic function](logistic_function.png)
+![logistic function](images/logistic_function.png)
 
 Im Gegensatz zur linearen Regression funktioniert die Methode der kleinsten Quadrate hier nicht. Stattdessen werden die Parameter durch Maximierung der **logarithmierten Wahrscheinlichkeit** (logit) der Funktion gefunden.
 

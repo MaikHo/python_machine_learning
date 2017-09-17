@@ -1,7 +1,7 @@
 
 # Regression
 
-![linear regression](linear_regression.png)
+![linear regression](images/linear_regression.png)
 
 ## Lineare Regression
 
