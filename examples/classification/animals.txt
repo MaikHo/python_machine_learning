@@ -1,0 +1,16 @@
+name,legs,size,fur,flying,reproduction
+bee,6,1,1,1,0
+bat,2,2,1,1,1
+chicken,2,3,0,0,0
+ant,6,1,0,0,0
+salmon,0,3,0,0,0
+platypus,4,3,1,0,0
+chimp,2,4,1,0,1
+elephant,4,5,0,0,1
+crab,10,2,0,0,0
+dog,4,4,1,0,1
+shark,0,4,0,0,0
+human,2,4,0,0,1
+eagle,2,4,0,1,0
+frog,4,2,0,0,0
+whale,0,5,0,0,1
