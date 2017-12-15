@@ -8,5 +8,6 @@
   * [Unüberwachtes Lernen](unsupervised.md)
   * [Weitere Machine Learning-Verfahren](other.md)
 * [Challenges](challenges.md)
+  * [Interpret aus Songtexten vorhersagen](challenges/lyrics/README.md)
 * [Python-Bibliotheken](python.md)
 * [Links](links.md)
